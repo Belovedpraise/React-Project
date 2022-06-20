@@ -1,0 +1,12 @@
+body{
+  background-color: cadetblue;
+}
+#login{
+  background-color: rgb(255, 196, 0);
+  width: 400px;
+  height: 500px;
+}
+
+#log{
+padding: 10px;
+}
